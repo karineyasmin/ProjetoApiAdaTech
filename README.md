@@ -34,7 +34,12 @@ dotnet run
 
 # Ou executar em modo de desenvolvimento com hot reload
 dotnet watch run
+
+# Executar testes
+dotnet test
 ```
+
+
 
 ## Disclaimer
 
