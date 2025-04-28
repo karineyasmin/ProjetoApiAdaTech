@@ -8,12 +8,12 @@ Este projeto foi desenvolvido como parte do curso de **Desenvolvimento de APIs R
 
 - Aprender os princípios fundamentais do desenvolvimento de APIs REST
 - Praticar a implementação de endpoints seguindo boas práticas
-- Compreender conceitos como autenticação, autorização e manipulação de dados
+- Compreender conceitos como autenticação, autorização, manipulação de dados e testes
 - Desenvolver habilidades técnicas em um ambiente controlado de aprendizagem
 
 ## Tecnologias Utilizadas
 
-- .NET 9
+- .NET 8
 - ASP.NET Core
 
 ## Estrutura do Projeto
